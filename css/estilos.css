@@ -14,7 +14,7 @@ border: 1px solid=chartreuse
 }
 #cabecera
 {
-    background:cornflowerblue;
+    background:rgb(26, 170, 86);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
